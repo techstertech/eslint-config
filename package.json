@@ -1,0 +1,30 @@
+{
+  "name": "@tstt/eslint-config",
+  "version": "0.0.2",
+  "description": "ESLint Config Optimized Readability and Productivity",
+  "main": "index.js",
+  "author": "techstertech",
+  "license": "MIT",
+  "repository": "https://github.com/techstertech/eslint-config",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "5.19.0",
+    "@typescript-eslint/parser": "5.19.0",
+    "eslint": "8.13.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-react": "7.29.4",
+    "eslint-plugin-react-hooks": "4.4.0",
+    "prettier": "^2.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "peerDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "volta": {
+    "node": "16.13.0",
+    "yarn": "1.22.17"
+  }
+}
