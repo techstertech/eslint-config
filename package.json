@@ -1,6 +1,6 @@
 {
   "name": "@tstt/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "ESLint Config Optimized Readability and Productivity",
   "main": "index.js",
   "author": "techstertech",
@@ -15,7 +15,11 @@
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-react": "7.29.4",
     "eslint-plugin-react-hooks": "4.4.0",
-    "prettier": "^2.4.1"
+    "prettier": "^2.4.1",
+    "stylelint": "^14.9.1",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^26.0.0",
+    "stylelint-config-tailwindcss": "^0.0.6"
   },
   "devDependencies": {
     "typescript": "^4.6.3"

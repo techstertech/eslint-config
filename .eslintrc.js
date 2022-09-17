@@ -4,6 +4,7 @@ module.exports = {
   plugins: ['react-hooks'],
 
   globals: {
+    Meteor: 'readonly',
     Helene: 'readonly',
   },
 
