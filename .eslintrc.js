@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
 
-  plugins: ['react-hooks'],
+  plugins: ['react-hooks', 'eslint-plugin-prettier'],
 
   globals: {
     Meteor: 'readonly',

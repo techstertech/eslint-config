@@ -1,6 +1,6 @@
 {
   "name": "@tstt/eslint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "ESLint Config Optimized Readability and Productivity",
   "main": "index.js",
   "author": "techstertech",
