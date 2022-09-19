@@ -6,6 +6,7 @@ module.exports = {
     "stylelint-config-standard-scss"
   ],
   "rules": {
-    "at-rule-no-unknown": null
+    "at-rule-no-unknown": null,
+    "string-quotes": "single",
   }
 }
