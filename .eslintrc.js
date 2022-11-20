@@ -30,6 +30,7 @@ module.exports = {
     'react-hooks/exhaustive-deps': 0,
     'no-inner-declarations': 0,
     'react/no-unescaped-entities': 0,
+    'react/react-in-jsx-scope': 0,
   },
 
   overrides: [
