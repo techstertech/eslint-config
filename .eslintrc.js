@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
 
-  plugins: ['react-hooks', 'eslint-plugin-prettier'],
+  plugins: ['react-hooks', 'prettier', 'react'],
 
   globals: {
     Meteor: 'readonly',
@@ -22,7 +22,7 @@ module.exports = {
   ],
 
   rules: {
-    'no-console': 'warn',
+    'no-console': 0,
     'react/prop-types': 0,
     'react/jsx-curly-spacing': 0,
     'react/display-name': 0,
